@@ -1,0 +1,8 @@
+.DS_Store
+.index-build
+.build
+.swiftpm
+/.vscode
+/DeviceChecker.xcodeproj/project.xcworkspace/xcuserdata
+/DeviceChecker.xcodeproj/xcuserdata
+UserInterfaceState.xcuserstate

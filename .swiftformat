@@ -1,0 +1,9 @@
+--disable all
+
+--enable indent
+--enable isEmpty
+
+--indent 4
+--ifdef no-indent
+--stripunusedargs closure-only
+--trimwhitespace nonblank-lines
