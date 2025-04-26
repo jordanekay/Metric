@@ -12,7 +12,7 @@ public enum Line {}
 // MARK: -
 public extension Line {
     struct Spacing: Sendable {
-        fileprivate let value: Int
+        let value: Int
     }
 }
 

@@ -9,7 +9,7 @@ public import SwiftUI
 
 // MARK: -
 public struct Padding: Sendable {
-    fileprivate let value: Int
+    let value: Int
 }
 
 // MARK: -

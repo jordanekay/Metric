@@ -8,17 +8,17 @@
 public import SwiftUI
 
 public struct Size: Sendable {
-    fileprivate let value: Int
+    let value: Int
 }
 
 // MARK: -
 public extension Size {
     struct Width: Sendable {
-        fileprivate let value: Int
+        let value: Int
     }
 
     struct Height: Sendable {
-        fileprivate let value: Int
+        let value: Int
     }
 }
 

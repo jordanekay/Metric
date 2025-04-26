@@ -12,7 +12,7 @@ public enum Spacing {}
 // MARK: -
 public extension Spacing {
     struct Vertical: Sendable {
-        fileprivate let value: Int
+        let value: Int
     }
 }
 
