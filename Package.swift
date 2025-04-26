@@ -3,10 +3,6 @@ import PackageDescription
 
 let package = Package(
     name: "Metric",
-    platforms: [
-        .iOS(.v18),
-        .macOS(.v15)
-    ],
     products: [
         .library(
             name: "Metric",
